@@ -10,9 +10,6 @@
         <module name="desafio-anota-ai" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="desafio-anota-ai" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
